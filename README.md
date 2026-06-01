@@ -26,8 +26,12 @@
         Aplicação web open source com missões narrativas para praticar SQL em cenários de negócio.<br>
         A aplicação executa queries reais em SQLite e transforma o aprendizado de SQL em uma jornada prática e interativa.
       </p>
+      <p>
+        🔗 <a href="https://sqlquest-game.vercel.app/" target="_blank">Acessar projeto</a>
+      </p>
     </td>
   </tr>
+
   <tr>
     <td>
       <h3>📊 Módulo de BI para sistemas corporativos</h3>
@@ -36,6 +40,19 @@
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <h3>🤖 AI/BI Dashboard com assistente de IA</h3>
+      <p>
+        Dashboard web com assistente de IA integrado para permitir que usuários interajam diretamente com os dados em linguagem natural.
+      </p>
+      <p>
+        🔗 <a href="https://dashboard-ia-bi-demo.vercel.app/" target="_blank">Acessar projeto</a>
+      </p>
+    </td>
+  </tr>
+
   <tr>
     <td>
       <h3>⚙️ Sistema para gestão de dados</h3>
@@ -44,7 +61,8 @@
       </p>
     </td>
   </tr>
-    <tr>
+
+  <tr>
     <td>
       <h3>⚒️ Plataforma para execução de pipelines de dados</h3>
       <p>
@@ -55,11 +73,15 @@
       </p>
     </td>
   </tr>
+
   <tr>
     <td>
       <h3>🧾 Sistema para gestão de estúdios de tatuagem</h3>
       <p>
         Aplicação web desenvolvida para pequenos estúdios centralizarem clientes, orçamentos, agenda, atendimentos, vitrine e inventário em um único ambiente.
+      </p>
+      <p>
+        🔗 <a href="https://tatu.app.br/" target="_blank">Acessar projeto</a>
       </p>
     </td>
   </tr>
@@ -70,7 +92,7 @@
 🌎 Onde me encontrar
 
 <p>
-  <a href="https://linkedin.com/in/andrepimentelsantos01">
+  <a href="https://linkedin.com/in/andrepimentelsantos01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-André%20Pimentel%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
