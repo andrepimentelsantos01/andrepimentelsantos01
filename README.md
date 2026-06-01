@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  Atuo entre <strong>Business Intelligence, análise de dados e programação</strong> usando Python, SQL, JavaScript e APIs para construir produtos de dados.
+  Atuo entre <strong>Business Intelligence, análise de dados, programação e inteligência artificial</strong> usando Python, SQL, JavaScript e APIs para construir produtos de dados.
 </p>
 
 </div>
