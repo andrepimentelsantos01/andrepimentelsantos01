@@ -34,9 +34,22 @@
 
   <tr>
     <td>
+      <h3>🐍 Python Data Quest</h3>
+      <p>
+        Aplicação web com missões narrativas para praticar análise de dados em cenários de negócio.<br>
+        O jogador escreve códigos reais em Python usando Pandas e Seaborn para tratar dados, resolver problemas e criar visualizações.
+      </p>
+      <p>
+        (EM BREVE)🔗 <a href="EM BREVE" target="_blank">Acessar projeto</a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
       <h3>📊 Módulo de BI para sistemas corporativos</h3>
       <p>
-        Interface de BI completa integrada a aplicações web e sistemas internos com KPIs financeiros e operacionais, filtros globais, gráficos, tabelas, drill-downs e integração via APIs. Atuei também no desenvolvimento da camada semântica no banco de dados para garantir uma arquitetura eficiente para lidar com milhões de registros.
+        Interface de BI completa integrada a aplicações web e sistemas internos com KPIs, filtros globais e cruzados, gráficos, tabelas, drill-downs e automação via API. Atuei também no desenvolvimento da camada semântica no banco de dados para garantir uma arquitetura eficiente para lidar com milhões de registros.
       </p>
     </td>
   </tr>
@@ -52,16 +65,6 @@
       </p>
     </td>
   </tr>
-
-  <tr>
-    <td>
-      <h3>⚙️ Sistema para gestão de dados</h3>
-      <p>
-        Plataforma modular para ingestão, versionamento e análise de dados corporativos com foco em automação, governança, rastreabilidade e consultas SQL.
-      </p>
-    </td>
-  </tr>
-
   <tr>
     <td>
       <h3>⚒️ Plataforma para execução de pipelines de dados</h3>
@@ -69,7 +72,7 @@
         Plataforma local com frontend React/Vite e backend FastAPI para execução assistida de pipelines de dados. Permite upload, preview, processamento, warnings, auditoria, download dos resultados e visualização do código-fonte do pipeline para rastreabilidade técnica.
       </p>
       <p>
-        O projeto foi pensado para padronizar fluxos de tratamento e análise sem depender de notebooks ou scripts soltos, mantendo rastreabilidade por execução e evitando a persistência de dados atuando apenas como motor de processamento.
+        O projeto foi pensado para padronizar fluxos de tratamento e análise sem depender de notebooks ou scripts soltos, mantendo rastreabilidade por execução e evitando a persistência de dados, atuando apenas como motor de processamento.
       </p>
     </td>
   </tr>
