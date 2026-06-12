@@ -21,6 +21,25 @@
 <table>
   <tr>
     <td>
+      <h3>⚒️ Plataforma para Execução de Pipelines de Dados</h3>
+      <p>
+        Plataforma local com frontend React/Vite e backend FastAPI para execução assistida de pipelines de dados. Permite upload, preview, processamento, warnings, auditoria, download dos resultados e visualização do código-fonte do pipeline para rastreabilidade técnica.
+      </p>
+      <p>
+        O projeto foi pensado para padronizar fluxos de tratamento e análise sem depender de notebooks ou scripts soltos, mantendo rastreabilidade por execução e evitando a persistência de dados, atuando apenas como motor de processamento.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📊 Módulo de BI para sistemas corporativos</h3>
+      <p>
+        Interface de BI e Análise de Dados completa integrada a aplicação web (SaaS) e sistemas internos com KPIs, filtros globais e cruzados, gráficos, tabelas, drill-downs e automação via API. Atuei também no desenvolvimento da camada semântica no banco de dados para garantir uma arquitetura eficiente para lidar com milhões de registros.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h3>🎮 SQL Quest</h3>
       <p>
         Aplicação web open source com missões narrativas para praticar SQL em cenários de negócio.<br>
@@ -31,7 +50,6 @@
       </p>
     </td>
   </tr>
-
   <tr>
     <td>
       <h3>🐍 Python Data Quest</h3>
@@ -44,39 +62,6 @@
       </p>
     </td>
   </tr>
-
-  <tr>
-    <td>
-      <h3>📊 Módulo de BI para sistemas corporativos</h3>
-      <p>
-        Interface de BI completa integrada a aplicações web e sistemas internos com KPIs, filtros globais e cruzados, gráficos, tabelas, drill-downs e automação via API. Atuei também no desenvolvimento da camada semântica no banco de dados para garantir uma arquitetura eficiente para lidar com milhões de registros.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <h3>🤖 AI/BI Dashboard com assistente de IA</h3>
-      <p>
-        Dashboard web com assistente de IA integrado para permitir que usuários interajam diretamente com os dados em linguagem natural.
-      </p>
-      <p>
-        🔗 <a href="https://dashboard-ia-bi-demo.vercel.app/" target="_blank">Acessar projeto</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>⚒️ Plataforma para execução de pipelines de dados</h3>
-      <p>
-        Plataforma local com frontend React/Vite e backend FastAPI para execução assistida de pipelines de dados. Permite upload, preview, processamento, warnings, auditoria, download dos resultados e visualização do código-fonte do pipeline para rastreabilidade técnica.
-      </p>
-      <p>
-        O projeto foi pensado para padronizar fluxos de tratamento e análise sem depender de notebooks ou scripts soltos, mantendo rastreabilidade por execução e evitando a persistência de dados, atuando apenas como motor de processamento.
-      </p>
-    </td>
-  </tr>
-
   <tr>
     <td>
       <h3>🧾 Sistema para gestão de estúdios de tatuagem</h3>
@@ -87,6 +72,17 @@
         🔗 <a href="https://tatu.app.br/" target="_blank">Acessar projeto</a>
       </p>
     </td>
+    <tr>
+    <td>
+      <h3>🤖 AI/BI Dashboard com assistente de IA</h3>
+      <p>
+        Dashboard web com assistente de IA integrado para permitir que usuários interajam diretamente com os dados em linguagem natural.
+      </p>
+      <p>
+        🔗 <a href="https://dashboard-ia-bi-demo.vercel.app/" target="_blank">Acessar projeto</a>
+      </p>
+    </td>
+  </tr>
   </tr>
 </table>
 
