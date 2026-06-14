@@ -58,7 +58,7 @@
         O jogador escreve códigos reais em Python usando Pandas e Seaborn para tratar dados, resolver problemas e criar visualizações.
       </p>
       <p>
-        🔗 <a href="(https://pythondataquest.vercel.app/)" target="_blank">Acessar projeto</a>
+        🔗 <a href="https://pythondataquest.vercel.app/" target="_blank">Acessar projeto</a>
       </p>
     </td>
   </tr>
