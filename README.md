@@ -21,6 +21,20 @@
 <table>
   <tr>
     <td>
+      <h3>🔎 Engine Doc Power BI</h3>
+      <p>
+        Ferramenta open source em Python para geração automática de documentação técnica de projetos Power BI no formato PBIP.
+      </p>
+      <p>
+        Analisa a arquitetura do projeto e gera um raio-X com tabelas, medidas DAX, colunas calculadas, relacionamentos, dependências, fontes e outros metadados do modelo. Também possui uma camada opcional de IA via NVIDIA NIM para revisar o resultado e sugerir melhorias de modelagem, organização e performance.
+      </p>
+      <p>
+        🔗 <a href="https://github.com/andrepimentelsantos01/engine_doc_power_bi" target="_blank">Acessar repositório</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h3>⚒️ Plataforma para Execução de Pipelines de Dados</h3>
       <p>
         Plataforma local com frontend React/Vite e backend FastAPI para execução assistida de pipelines de dados. Permite upload, preview, processamento, warnings, auditoria, download dos resultados e visualização do código-fonte do pipeline para rastreabilidade técnica.
@@ -72,7 +86,8 @@
         🔗 <a href="https://tatu.app.br/" target="_blank">Acessar projeto</a>
       </p>
     </td>
-    <tr>
+  </tr>
+  <tr>
     <td>
       <h3>🤖 AI/BI Dashboard com assistente de IA</h3>
       <p>
@@ -82,7 +97,6 @@
         🔗 <a href="https://dashboard-ia-bi-demo.vercel.app/" target="_blank">Acessar projeto</a>
       </p>
     </td>
-  </tr>
   </tr>
 </table>
 
