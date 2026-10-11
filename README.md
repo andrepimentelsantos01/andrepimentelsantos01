@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  Data & BI Analyst | Front-End BI Developer
+  Data Analyst (Treasury) @ Senff | Data Products, Automation & BI | Python, JavaScript, SQL, APIs & Databases
 </p>
 
 <p>
@@ -33,6 +33,23 @@
       </p>
     </td>
   </tr>
+<tr>
+  <td>
+    <h3>🎲 PyCarlo — Monte Carlo para Fluxo de Caixa</h3>
+    <p>
+      Biblioteca open source em Python para simulações de Monte Carlo aplicadas à análise de risco financeiro e projeções de fluxo de caixa.
+    </p>
+    <p>
+      Utiliza bootstrap de históricos de previsão e realização para gerar cenários probabilísticos, preservando movimentos conhecidos e simulando incertezas sobre valores projetados. Calcula probabilidades de déficit de caixa, percentis de liquidez, necessidade de reserva financeira e períodos de maior exposição ao risco.
+    </p>
+    <p>
+      Desenvolvida com NumPy, SciPy, Pandas e Matplotlib, possui API Python, CLI, exportação de resultados em JSON e Parquet e geração de gráficos para análise financeira. Sua arquitetura independente permite integração com pipelines de dados existentes.
+    </p>
+    <p>
+      🔗 <a href="https://github.com/andrepimentelsantos01/pycarlo" target="_blank">Acessar repositório</a>
+    </p>
+  </td>
+</tr>
   <tr>
     <td>
       <h3>⚒️ Plataforma para Execução de Pipelines de Dados</h3>
