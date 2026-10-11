@@ -5,10 +5,6 @@
 </p>
 
 <p>
-  Data Analyst (Treasury) @ Senff | Data Products, Automation & BI | Python, JavaScript, SQL, APIs & Databases
-</p>
-
-<p>
   Atuo entre <strong>Business Intelligence, análise de dados, programação e inteligência artificial</strong> usando Python, SQL, JavaScript e APIs para construir produtos de dados.
 </p>
 
