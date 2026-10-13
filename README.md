@@ -31,7 +31,7 @@
   </tr>
 <tr>
   <td>
-    <h3>🎲 PyCarlo — Monte Carlo para Fluxo de Caixa</h3>
+    <h3>🎲 PyCarlo - Monte Carlo para Fluxo de Caixa</h3>
     <p>
       Biblioteca open source em Python para simulações de Monte Carlo aplicadas à análise de risco financeiro e projeções de fluxo de caixa.
     </p>
